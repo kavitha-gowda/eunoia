@@ -1,0 +1,10 @@
+# SIMPLE MADLIB
+
+adj = input("adjective: ")
+verb1 = input("verb: ")
+famous_person = input("famous: ")
+
+madlib = f"avengers is an {adj} movie! i love all the {verb1} scenes in it. \
+keep being strong like you are {famous_person}"
+
+print(madlib)
